@@ -101,7 +101,7 @@ document.addEventListener("DOMContentLoaded", function () {
         const wedate = document.getElementById("wedate");
         const btns = document.getElementById("btns");
         btns.style.display = "none";
-        wedate.innerText = "We are each other's valentine now. I love you nainuuuu. ❤️😘";
+        wedate.innerText = "We are each other's valentine now.";
 }
 
   
